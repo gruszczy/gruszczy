@@ -21,11 +21,11 @@
 
 **Duration:** 2 turns
 
-**Range:** N/A
+**Range:** 120'
 
 
 ### Description
-- Causes a target within 120’ to flee for the duration unless they save versus spells.
+- The target can only take move actions. A successful save negates.
 ## Cause Light Wounds
 **Level:** 1
 
