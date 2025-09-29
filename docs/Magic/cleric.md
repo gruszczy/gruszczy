@@ -1,11 +1,18 @@
 # Cleric Spells
-| Level | Spells |
-| :---: | :--- |
-| 1 | [Cause Fear](#cause-fear), [Cause Light Wounds](#cause-light-wounds), [Command](#command), [Cure Light Wounds](#cure-light-wounds), [Darkness](#darkness), [Detect Evil](#detect-evil), [Detect Magic](#detect-magic), [Protection from Evil](#protection-from-evil), [Purify Food and Water](#purify-food-and-water), [Resist Cold](#resist-cold) |
-| 2 | [Blight](#blight), [Find Traps](#find-traps), [Hold Person](#hold-person), [Know Alignment](#know-alignment), [Resist Fire](#resist-fire), [Silence 15’ Radius](#silence-15-radius), [Snake Charm](#snake-charm), [Speak with Animals](#speak-with-animals) |
-| 3 | [Cause Disease](#cause-disease), [Continual Darkness](#continual-darkness), [Curse](#curse), [Growth of Animal](#growth-of-animal), [Locate Object](#locate-object), [Striking](#striking) |
-| 4 | [Cause Sr. Wounds](#cause-sr-wounds), [Create Water](#create-water), [Neutralize Poison](#neutralize-poison), [Protection from Evil 10’ Radius](#protection-from-evil-10-radius), [Speak with Plants](#speak-with-plants), [Sticks to Snakes](#sticks-to-snakes) |
-| 5 | [Commune](#commune), [Create Food](#create-food), [Dispel Evil](#dispel-evil), [Finger of Death](#finger-of-death), [Insect Plague](#insect-plague), [Remove Quest](#remove-quest) |
+
+| 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- |
+| [Cause Fear](#cause-fear) | [Blight](#blight) | [Cause Disease](#cause-disease) | [Cause Sr. Wounds](#cause-sr-wounds) | [Commune](#commune) |
+| [Cause Light Wounds](#cause-light-wounds) | [Find Traps](#find-traps) | [Continual Darkness](#continual-darkness) | [Create Water](#create-water) | [Create Food](#create-food) |
+| [Command](#command) | [Hold Person](#hold-person) | [Curse](#curse) | [Neutralize Poison](#neutralize-poison) | [Dispel Evil](#dispel-evil) |
+| [Cure Light Wounds](#cure-light-wounds) | [Know Alignment](#know-alignment) | [Growth of Animal](#growth-of-animal) | [Protection from Evil 10’ Radius](#protection-from-evil-10-radius) | [Finger of Death](#finger-of-death) |
+| [Darkness](#darkness) | [Resist Fire](#resist-fire) | [Locate Object](#locate-object) | [Speak with Plants](#speak-with-plants) | [Insect Plague](#insect-plague) |
+| [Detect Evil](#detect-evil) | [Silence 15’ Radius](#silence-15-radius) | [Striking](#striking) | [Sticks to Snakes](#sticks-to-snakes) | [Remove Quest](#remove-quest) |
+| [Detect Magic](#detect-magic) | [Snake Charm](#snake-charm) |  |  |  |
+| [Protection from Evil](#protection-from-evil) | [Speak with Animals](#speak-with-animals) |  |  |  |
+| [Purify Food and Water](#purify-food-and-water) |  |  |  |  |
+| [Resist Cold](#resist-cold) |  |  |  |  |
+
 ## Spell Details
 
 ## Cause Fear
