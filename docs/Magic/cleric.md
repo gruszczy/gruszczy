@@ -4,13 +4,13 @@
 | --- | --- | --- | --- | --- |
 | [Cause Fear](#cause-fear) | [Bless](#bless) | [Cause Disease](#cause-disease) | [Cause Sr. Wounds](#cause-sr-wounds) | [Commune](#commune) |
 | [Cause Light Wounds](#cause-light-wounds) | [Blight](#blight) | [Continual Darkness](#continual-darkness) | [Create Water](#create-water) | [Create Food](#create-food) |
-| [Command](#command) | [Find Traps](#find-traps) | [Continual Light](#continual-light) | [Neutralize Poison](#neutralize-poison) | [Dispel Evil](#dispel-evil) |
-| [Cure Light Wounds](#cure-light-wounds) | [Hold Person](#hold-person) | [Curse](#curse) | [Protection from Evil 10’ Radius](#protection-from-evil-10-radius) | [Finger of Death](#finger-of-death) |
-| [Darkness](#darkness) | [Know Alignment](#know-alignment) | [Growth of Animal](#growth-of-animal) | [Speak with Plants](#speak-with-plants) | [Insect Plague](#insect-plague) |
-| [Detect Evil](#detect-evil) | [Resist Fire](#resist-fire) | [Locate Object](#locate-object) | [Sticks to Snakes](#sticks-to-snakes) | [Quest](#quest) |
-| [Detect Magic](#detect-magic) | [Silence 15’ Radius](#silence-15-radius) | [Remove Curse](#remove-curse) |  | [Raise Dead](#raise-dead) |
-| [Light](#light) | [Snake Charm](#snake-charm) | [Striking](#striking) |  | [Remove Quest](#remove-quest) |
-| [Protection from Evil](#protection-from-evil) | [Speak with Animals](#speak-with-animals) |  |  |  |
+| [Command](#command) | [Find Traps](#find-traps) | [Continual Light](#continual-light) | [Cure Serious Wounds](#cure-serious-wounds) | [Dispel Evil](#dispel-evil) |
+| [Cure Light Wounds](#cure-light-wounds) | [Hold Person](#hold-person) | [Cure Disease](#cure-disease) | [Neutralize Poison](#neutralize-poison) | [Finger of Death](#finger-of-death) |
+| [Darkness](#darkness) | [Know Alignment](#know-alignment) | [Curse](#curse) | [Protection from Evil 10’ Radius](#protection-from-evil-10-radius) | [Insect Plague](#insect-plague) |
+| [Detect Evil](#detect-evil) | [Resist Fire](#resist-fire) | [Growth of Animal](#growth-of-animal) | [Speak with Plants](#speak-with-plants) | [Quest](#quest) |
+| [Detect Magic](#detect-magic) | [Silence 15’ Radius](#silence-15-radius) | [Locate Object](#locate-object) | [Sticks to Snakes](#sticks-to-snakes) | [Raise Dead](#raise-dead) |
+| [Light](#light) | [Snake Charm](#snake-charm) | [Remove Curse](#remove-curse) |  | [Remove Quest](#remove-quest) |
+| [Protection from Evil](#protection-from-evil) | [Speak with Animals](#speak-with-animals) | [Striking](#striking) |  |  |
 | [Purify Food and Water](#purify-food-and-water) |  |  |  |  |
 | [Remove Fear](#remove-fear) |  |  |  |  |
 | [Resist Cold](#resist-cold) |  |  |  |  |
@@ -300,6 +300,17 @@ The spell can be used in one of two ways:
 - If cast upon an object, the light moves with the object.
 - Can be cast upon a creature's eyes: target becomes blinded and cannot attack if fails saving throw versus spells.
 - Can cancel a continual darkness spell.
+## Cure Disease
+**Level:** 3
+
+**Duration:** Instant
+
+**Range:** 30 feet
+
+
+### Description
+- Cures a subject of any disease, including those of magical origin.
+- Instantly kills the monster known as green slime.
 ## Curse
 **Level:** 3
 
@@ -370,7 +381,7 @@ The spell can be used in one of two ways:
 
 ### Description
 - Inflicts 2d6+2 hit points of damage to a touched creature.
-- Requires a melee attack roll in combat.
+- Requires a melee attack roll again unarmored armor class in combat.
 ## Create Water
 **Level:** 4
 
@@ -382,6 +393,17 @@ The spell can be used in one of two ways:
 ### Description
 - Causes a magical fount to spring forth from the ground or a wall.
 - Produces approximately 50 gallons of water, sufficient to sustain twelve humans and twelve mounts for one day.
+## Cure Serious Wounds
+**Level:** 4
+
+**Duration:** Instant
+
+**Range:** Caster or a creature touched
+
+
+### Description
+- Heals 2d6+2 hit points of damage in one living subject.
+- Cannot raise the subject's hit points above their normal maximum.
 ## Neutralize Poison
 **Level:** 4
 
