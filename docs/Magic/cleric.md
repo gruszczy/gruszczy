@@ -7,9 +7,9 @@
 | [Command](#command) | [Find Traps](#find-traps) | [Continual Light](#continual-light) | [Neutralize Poison](#neutralize-poison) | [Dispel Evil](#dispel-evil) |
 | [Cure Light Wounds](#cure-light-wounds) | [Hold Person](#hold-person) | [Curse](#curse) | [Protection from Evil 10’ Radius](#protection-from-evil-10-radius) | [Finger of Death](#finger-of-death) |
 | [Darkness](#darkness) | [Know Alignment](#know-alignment) | [Growth of Animal](#growth-of-animal) | [Speak with Plants](#speak-with-plants) | [Insect Plague](#insect-plague) |
-| [Detect Evil](#detect-evil) | [Resist Fire](#resist-fire) | [Locate Object](#locate-object) | [Sticks to Snakes](#sticks-to-snakes) | [Remove Quest](#remove-quest) |
-| [Detect Magic](#detect-magic) | [Silence 15’ Radius](#silence-15-radius) | [Remove Curse](#remove-curse) |  |  |
-| [Light](#light) | [Snake Charm](#snake-charm) | [Striking](#striking) |  |  |
+| [Detect Evil](#detect-evil) | [Resist Fire](#resist-fire) | [Locate Object](#locate-object) | [Sticks to Snakes](#sticks-to-snakes) | [Quest](#quest) |
+| [Detect Magic](#detect-magic) | [Silence 15’ Radius](#silence-15-radius) | [Remove Curse](#remove-curse) |  | [Raise Dead](#raise-dead) |
+| [Light](#light) | [Snake Charm](#snake-charm) | [Striking](#striking) |  | [Remove Quest](#remove-quest) |
 | [Protection from Evil](#protection-from-evil) | [Speak with Animals](#speak-with-animals) |  |  |  |
 | [Purify Food and Water](#purify-food-and-water) |  |  |  |  |
 | [Remove Fear](#remove-fear) |  |  |  |  |
@@ -469,7 +469,7 @@ The spell can be used in one of two ways:
 
 **Duration:** Instant
 
-**Range:** 120 feet
+**Range:** 120'
 
 
 ### Description
@@ -479,23 +479,54 @@ The spell can be used in one of two ways:
 ## Insect Plague
 **Level:** 5
 
-**Duration:** Concentration (up to 1 day)
+**Duration:** 1 day
 
 **Range:** 480'
 
 
 ### Description
-- When cast above ground, conjures a 60' diameter swarm of flying insects.
-- Movement: 20' per round; caster can direct the swarm's movements while it is within range.
-- Vision within the area of the swarm is obscured.
-- Creatures of 2 HD or less are driven away if caught within the swarm.
+* The spell conjures a 60' diameter swarm of insects.
+* The caster can direct the swarm to move at speed of 20' per round within the spell's range.
+* The caster must remain stationary and concentrate on the spell or the cloud dissipates.
+* Vision within the swarm is obscured.
+* Creatueres of 2HD or less are driven away if caught in the swarm.
+* The spell only works above the ground.
+
+## Quest
+**Level:** 5
+
+**Duration:** Until the quest is completed
+
+**Range:** 30'
+
+
+### Description
+- Caster commands a single subject to perform a specific quest or task (e.g., rescuing a prisoner, killing a specific monster, bringing a magic item, journey to a holy site).
+- Quest prescribed must not be obviously suicidal.
+- Subject may make a saving throw versus spells; if successful, spell has no effect.
+- If subject fails save or refuses quest, they fall under a curse similar to the curse spell; exact nature determined by referee.
+- Spell ends once the task is completed.
+## Raise Dead
+**Level:** 5
+
+**Duration:** Instant
+
+**Range:** 120'
+
+
+### Description
+- Restores life to a recently deceased human or demihuman.
+- Time limit: Person must have been dead for no longer than four days per level of the caster above 7th (e.g., a 10th-level caster can revive a character dead for up to twelve days).
+- Weakness: Subject will have 1 hit point, move at half normal rate, cannot carry heavy items, and cannot attack, cast spells, or use other class abilities until two full weeks of bed rest.
+- Destroys a single undead monster if it fails a saving throw versus spells.
 ## Remove Quest
 **Level:** 5
 
 **Duration:** Until the quest is completed
 
-**Range:** 30 feet
+**Range:** 30'
 
 
 ### Description
-- Can dispel an active quest spell.
+* "Can dispel an active quest spell."
+* "If the character who cast the original quest spell is of a higher level than the character casting remove quest, there is a chance remove quest will have no effect (5% failure chance for every level the casting character is below the original quest caster)."
